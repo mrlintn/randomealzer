@@ -1,4 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Welcome to the randomealzer - the random meal plan generator that is based on meals you like to cook. Make your Sunday meal planning for the week a simple one click action.
+
+Visit http://randomealzer.herokuapp.com/ for the delpoyed app. You can create an account (DB and user authentication hosted on firebase), search for meals using keywords and filters, then choose the heart icon to favourite recipes you like and once you have more than 10 you can starty to use the Randomealzer function where if will randomly select 7 of your favourited meals and add them to a weekly meal plan for you.
+
+Enjoy!!
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
