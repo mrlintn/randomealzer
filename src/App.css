@@ -1,0 +1,95 @@
+@import url("https://use.typekit.net/oyl3aqx.css");
+
+h2 {
+  font-size: 48px;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: chantal, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #534741;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: chantal, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #534741;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: chantal, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #534741;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: chantal, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #534741;
+}
+
+.nav-title {
+  text-transform: uppercase;
+  font-family: chantal, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  display: flex;
+  flex-direction: row;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.home-page {
+  height: 100vh;
+  background-color: #fff3c3;
+  width: 100%;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
